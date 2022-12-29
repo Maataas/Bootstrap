@@ -1,0 +1,12 @@
+.row > * {
+    text-align: center;
+    border: 1px solid black;   
+}
+
+.big {
+    height: 300px;
+}
+
+.small {
+    height: 150px;
+}
